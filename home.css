@@ -3,7 +3,7 @@
   display: flex;
   z-index: 100;
   overflow: auto;
-  min-height: var(--dl-size-size-maxwidth);
+  min-height: 100vh;
   align-items: flex-start;
   flex-direction: row;
   justify-content: center;
